@@ -26,3 +26,7 @@ Aún me considero un aprendíz novato de varios lenguajes de programación, me a
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vmmo2314.vmmo2314" alt="Visitas">
 </p>
+
+
+<script src="https://tryhackme.com/badge/2699475"></script>
+
