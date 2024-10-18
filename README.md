@@ -7,7 +7,7 @@
 ### Acerca de mí
 
 ¡Hola! Soy Victor, estudio ingeniería informática en CUCEI. 
-Aún me considero un aprendíz novato de varios lenguajes de programación, me agrada el desarrollo web y la inteligencia artificial. 
+Novato de varios lenguajes de programación, me agrada el desarrollo web y la inteligencia artificial. 
 
 
 
