@@ -51,8 +51,9 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=vmmo2314.vmmo2314" alt="Visitas">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vmmo2314&count_bg=%237A28A3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"/>
 </p>
+
 
 ---
 
