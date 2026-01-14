@@ -1,8 +1,8 @@
-<h1 align="center"> ¡Hola, soy Victor! </h1>
+<h1 align="center"> ¡Hola, soy Victor! 👋 </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  <strong>Bienvenido a mi perfil de GitHub</strong>
+  <strong>Ingeniero en Informática | Full Stack Developer | AI Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -12,17 +12,39 @@
   <a href="https://steamcommunity.com/profiles/76561198385568830/">
     <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
   </a>
-</p>
+  </p>
 
 ---
 
 ## 🚀 Acerca de mí
 
-🎓 Estudiante de **Ingeniería Informática en CUCEI**  
-💡 Apasionado por el **desarrollo web** y la **inteligencia artificial**  
-📚 Explorando varios lenguajes de programación  
-🌱 Aprendiendo **React, Node.js y Python para IA**  
-🎮 Amante de los **videojuegos y la tecnología**  
+🎓 **Ingeniero en Informática** egresado de CUCEI, UDG.
+💻 **Full Stack Developer** especializado en la integración de **Inteligencia Artificial** en flujos de trabajo.
+☁️ Experiencia desplegando en **Docker, Linux VPS y Firebase**.
+🤖 Desarrollo potenciado con herramientas como **Cursor, Codex y Agentes IA**.
+🎮 Apasionado por la **Impresión 3D**, **RC** y la tecnología.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+**Lenguajes y Backend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,nodejs,express,flask,django,postgres" />
+</p>
+
+**Frontend y Cloud:**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,firebase,supabase,docker,linux,git" />
+</p>
+
+---
+
+## 💼 Proyectos Recientes
+
+* 🏭 **ERP Industrial con IA:** Sistema de gestión de nóminas e inventarios con asistencia biométrica (Red Neuronal + Docker).
+* 🛠️ **SaaS Management System:** ERP Serverless construido con Next.js y Firebase para gestión de talleres.
+* 🚛 **Plataforma Logística:** Solución de agendamiento y rutas para recolección de residuos (Vite + Firebase).
 
 ---
 
@@ -35,26 +57,10 @@
 
 ---
 
-## 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,linux" />
-</p>
-
----
-
 ## 📬 ¡Contáctame!
 
-📩 **vmmo2314@gmail.com**  
-💬 **Envíame un mensaje en [Instagram](https://www.instagram.com/vmmo2314/)**  
-
----
+📩 **vmmo2314@gmail.com** 💬 **Envíame un mensaje en [Instagram](https://www.instagram.com/vmmo2314/)** ---
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vmmo2314&count_bg=%237A28A3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"/>
 </p>
-
-
----
-
-###  ¡Gracias por visitar mi perfil! 
