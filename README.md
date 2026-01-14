@@ -1,66 +1,61 @@
-<h1 align="center"> ¡Hola, soy Victor! 👋 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  <strong>Ingeniero en Informática | Full Stack Developer | AI Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/vmmo2314/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+<div align="center">
+  <h1>Hi, I'm Victor Martínez 👋</h1>
+  <h3>Ingeniero en Informática | Full Stack Developer | AI Solutions</h3>
+  
+  <a href="https://www.linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561198385568830/">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+  <a href="mailto:vmmo2314@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  </p>
+</div>
 
----
+<br/>
 
-## 🚀 Acerca de mí
+## 👨‍💻 Sobre mí
 
-🎓 **Ingeniero en Informática** egresado de CUCEI, UDG.
-💻 **Full Stack Developer** especializado en la integración de **Inteligencia Artificial** en flujos de trabajo.
-☁️ Experiencia desplegando en **Docker, Linux VPS y Firebase**.
-🤖 Desarrollo potenciado con herramientas como **Cursor, Codex y Agentes IA**.
-🎮 Apasionado por la **Impresión 3D**, **RC** y la tecnología.
+Soy un **Ingeniero en Informática** apasionado por la convergencia entre el desarrollo web moderno y la Inteligencia Artificial. Me especializo en construir sistemas **ERP, SaaS y soluciones a medida** que resuelven problemas reales de negocio.
+
+Actualmente, me enfoco en:
+* Desarrollo **Full Stack** (React, Next.js, Node.js).
+* Integración de **Modelos de IA** y Agentes en flujos de trabajo productivos.
+* Despliegue de infraestructura en la nube y servidores Linux.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-**Lenguajes y Backend:**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,nodejs,express,flask,django,postgres" />
-</p>
-
-**Frontend y Cloud:**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,firebase,supabase,docker,linux,git" />
-</p>
+| Dominio | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite) |
+| **Backend & IA** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=nodedotjs) ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) |
+| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase) ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) |
 
 ---
 
-## 💼 Proyectos Recientes
+## 🚀 Proyectos Destacados
 
-* 🏭 **ERP Industrial con IA:** Sistema de gestión de nóminas e inventarios con asistencia biométrica (Red Neuronal + Docker).
-* 🛠️ **SaaS Management System:** ERP Serverless construido con Next.js y Firebase para gestión de talleres.
-* 🚛 **Plataforma Logística:** Solución de agendamiento y rutas para recolección de residuos (Vite + Firebase).
+No son solo repositorios, son soluciones que he construido:
+
+### 🏭 TechMachineShop (ERP Industrial con IA)
+Sistema integral para gestión de nóminas e inventarios en planta.
+* **Tech:** Vite, Python, Docker, Hugging Face.
+* **Key:** Implementación de red neuronal para asistencia biométrica y servidor FTP local seguro.
+
+### 🛠️ Solutions-Maple (SaaS Management)
+ERP para digitalización de talleres operativos.
+* **Tech:** Next.js, Firebase (Serverless).
+* **Key:** Base de datos en tiempo real y arquitectura 100% serverless para alta disponibilidad.
+
+### 🚛 Plataforma Logística
+Solución de agendamiento y optimización de rutas de recolección.
+* **Tech:** Vite, Firebase.
+* **Key:** Optimización logística y despliegue automatizado.
 
 ---
-
-## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmmo2314&show_icons=true&theme=radical" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmmo2314&theme=radical" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmmo2314&show_icons=true&theme=minimal&hide_border=true" height="150" />
+  <br/>
+  <p><em>"Talk is cheap. Show me the code."</em></p>
 </div>
-
----
-
-## 📬 ¡Contáctame!
-
-📩 **vmmo2314@gmail.com** 💬 **Envíame un mensaje en [Instagram](https://www.instagram.com/vmmo2314/)** ---
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vmmo2314&count_bg=%237A28A3&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false"/>
-</p>
