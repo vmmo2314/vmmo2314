@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Victor Martínez 👋</h1>
+  <h1>Hi, I'm Victor Martínez</h1>
   <h3>Ingeniero en Informática | Full Stack Developer | AI Solutions</h3>
   
   <a href="https://www.linkedin.com/in/tu-usuario">
@@ -12,7 +12,7 @@
 
 <br/>
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy un **Ingeniero en Informática** apasionado por la convergencia entre el desarrollo web moderno y la Inteligencia Artificial. Me especializo en construir sistemas **ERP, SaaS y soluciones a medida** que resuelven problemas reales de negocio.
 
@@ -23,7 +23,7 @@ Actualmente, me enfoco en:
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 | Dominio | Tecnologías |
 | :--- | :--- |
@@ -33,29 +33,21 @@ Actualmente, me enfoco en:
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 No son solo repositorios, son soluciones que he construido:
 
-### 🏭 TechMachineShop (ERP Industrial con IA)
+### TechMachineShop (ERP Industrial con IA)
 Sistema integral para gestión de nóminas e inventarios en planta.
 * **Tech:** Vite, Python, Docker, Hugging Face.
 * **Key:** Implementación de red neuronal para asistencia biométrica y servidor FTP local seguro.
 
-### 🛠️ Solutions-Maple (SaaS Management)
+### Solutions-Maple (SaaS Management)
 ERP para digitalización de talleres operativos.
 * **Tech:** Next.js, Firebase (Serverless).
 * **Key:** Base de datos en tiempo real y arquitectura 100% serverless para alta disponibilidad.
 
-### 🚛 Plataforma Logística
+### Plataforma Logística
 Solución de agendamiento y optimización de rutas de recolección.
 * **Tech:** Vite, Firebase.
 * **Key:** Optimización logística y despliegue automatizado.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmmo2314&show_icons=true&theme=minimal&hide_border=true" height="150" />
-  <br/>
-  <p><em>"Talk is cheap. Show me the code."</em></p>
-</div>
