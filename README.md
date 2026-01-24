@@ -57,7 +57,7 @@ A continuación presento soluciones desarrolladas para clientes reales.
 **Rol:** Full Stack Developer
 **Estado:** Producción
 
-> **El Desafío:** Orquestar el flujo de trabajo para diseño de componentes electrónicos, perfilado y grabado, asegurando trazabilidad para clientes de alto nivel.
+> **El Desafío:** Orquestar el flujo de trabajo para diseño de componentes electrónicos, perfilado y demás áreas, asegurando trazabilidad para clientes de alto nivel.
 
 <img src="assets/solutions-maple.com.gif" alt="Solutions Maple Interface" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
 
