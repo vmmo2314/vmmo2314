@@ -33,19 +33,40 @@ Actualmente, me enfoco en:
 
 ---
 
-## Proyectos Destacados
+## Proyectos Destacados (Casos de Estudio)
 
-No son solo repositorios, son soluciones que he construido:
+A continuación presento soluciones desarrolladas para clientes reales.
+*Nota: Debido a acuerdos de confidencialidad (NDA), el código fuente es privado. Se presentan demostraciones visuales y arquitectura.*
 
-### TechMachineShop (ERP Industrial con IA)
-Sistema integral para gestión de nóminas e inventarios en planta.
-* **Tech:** Vite, Python, Docker, Hugging Face.
-* **Key:** Implementación de red neuronal para asistencia biométrica y servidor FTP local seguro.
+### TechMachineShop | ERP Industrial & Biometría
+**Rol:** Líder de Sistemas & Full Stack Developer
+**Estado:** Producción (Uso interno privado)
 
-### Solutions-Maple (SaaS Management)
-ERP para digitalización de talleres operativos.
-* **Tech:** Next.js, Firebase (Serverless).
-* **Key:** Base de datos en tiempo real y arquitectura 100% serverless para alta disponibilidad.
+> **El Desafío:** Digitalizar una planta de manufactura, integrando control de asistencia facial y gestión de nómina compleja.
+
+<img src="2.png" alt="TechMachineShop Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+
+**Solución Técnica:**
+* **Arquitectura:** Frontend en **Vite (React)** consumiendo una API **Python**.
+* **IA & Seguridad:** Implementación de modelos de **Hugging Face** para reconocimiento facial in-situ (evitando costos de API nube) integrados a un sistema de control de acceso físico.
+* **Infraestructura:** Servidor FTP local seguro para manejo de planos de ingeniería y despliegue en contenedores **Docker**.
+
+---
+
+### Solutions-Maple | Sistema de Gestión de Manufactura Electrónica
+**Rol:** Full Stack Developer
+**Estado:** Producción
+
+> **El Desafío:** Orquestar el flujo de trabajo para diseño de componentes electrónicos, perfilado y grabado, asegurando trazabilidad para clientes de alto nivel.
+
+<img src="2maple.png" alt="Solutions Maple Interface" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+
+**Solución Técnica:**
+* **Serverless:** Arquitectura basada en **Firebase** (Auth, Firestore, Functions) para alta disponibilidad sin mantenimiento de servidores físicos.
+* **Frontend:** **Next.js** para una interfaz rápida y responsiva en planta.
+* **Datos:** Trazabilidad en tiempo real de las órdenes de manufactura y estados de producción de componentes.
+
+---
 
 ### Plataforma Logística
 Solución de agendamiento y optimización de rutas de recolección.
