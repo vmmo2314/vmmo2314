@@ -44,7 +44,7 @@ A continuación presento soluciones desarrolladas para clientes reales.
 
 > **El Desafío:** Digitalizar una planta de manufactura, integrando control de asistencia facial y gestión de nómina compleja.
 
-<img src="assets/cgi-tms.techmachineshop.com-gif" alt="TechMachineShop Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+<img src="assets/cgi-tms.techmachineshop.com.gif" alt="TechMachineShop Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
 
 **Solución Técnica:**
 * **Arquitectura:** Frontend en **Vite (React)** consumiendo una API **Python**.
