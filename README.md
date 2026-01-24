@@ -44,7 +44,7 @@ A continuación presento soluciones desarrolladas para clientes reales.
 
 > **El Desafío:** Digitalizar una planta de manufactura, integrando control de asistencia facial y gestión de nómina compleja.
 
-<img src="2.png" alt="TechMachineShop Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+<img src="assets/2.png" alt="TechMachineShop Dashboard" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
 
 **Solución Técnica:**
 * **Arquitectura:** Frontend en **Vite (React)** consumiendo una API **Python**.
@@ -59,7 +59,7 @@ A continuación presento soluciones desarrolladas para clientes reales.
 
 > **El Desafío:** Orquestar el flujo de trabajo para diseño de componentes electrónicos, perfilado y grabado, asegurando trazabilidad para clientes de alto nivel.
 
-<img src="2maple.png" alt="Solutions Maple Interface" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
+<img src="assets/2maple.png" alt="Solutions Maple Interface" width="100%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);" />
 
 **Solución Técnica:**
 * **Serverless:** Arquitectura basada en **Firebase** (Auth, Firestore, Functions) para alta disponibilidad sin mantenimiento de servidores físicos.
