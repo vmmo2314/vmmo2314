@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Victor Martínez</h1>
+  <h1>Hola, soy Victor Martinez</h1>
   <h3>Ingeniero en Informática | Full Stack Developer | AI Solutions</h3>
   
   <a href="https://www.linkedin.com/in/tu-usuario">
