@@ -2,7 +2,7 @@
   <h1>Hola, soy Victor Martinez</h1>
   <h3>Ingeniero en Informática | Full Stack Developer | AI Solutions</h3>
   
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="www.linkedin.com/in/victor-manuel-martinez-orozco-46042a241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vmmo2314@gmail.com">
